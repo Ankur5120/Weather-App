@@ -19,8 +19,12 @@ A simple weather application that provides real-time weather updates for any cit
 ### Prerequisites
 - A text editor (e.g., VSCode)
 - Live server extension (optional, for local development)
+## Screenshots
+
+![Weather App Screenshot](Weather%20App/weather-app-img/images/screenshort.png)
 
 ### Installation
+
 
 1. Clone the repository:
    ```bash
